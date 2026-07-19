@@ -1,7 +1,7 @@
 import telebot
 
 # Bot Token
-BOT_TOKEN = '7090605258:AAGhLlwgEHw4KSogSqcV7Srho5I7GexLV6M'
+BOT_TOKEN = '8003252655:AAF9d039Y48eSLt36NzFbcKCMYrc-kxPMd8'
 
 # Bot Init
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode='Markdown')
